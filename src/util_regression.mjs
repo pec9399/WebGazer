@@ -1,5 +1,5 @@
 import util from './util.mjs';
-import numeric from 'numeric.mjs';
+import numeric from 'numeric';
 import mat from './mat.mjs';
 import params from './params.mjs';
 
